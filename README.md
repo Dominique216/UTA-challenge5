@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Work Day Scheduler
 ## Description 
  This web application is a Wory Day Scheduler. After being given inital starter code from UT, the goal of this challenge was to make a functional Work Planner.The user can navigate to the website and is shown a planner from 8 am to 5 pm. They can type out tasks in each time bracket and press the save button on the right to save their task. The planner also changes color depending on the time of day. A grey block means the time has passed, a green block is for future times, and a red box is for the current hour it is. This was made using JQuery and Dayjs. The HTML and CSS of this project were provided. 
